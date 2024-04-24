@@ -56,7 +56,7 @@ body{
 
 
 #lluvia{
-    background: url("/storage/lluvia.gif");
+    background: url("../storage/lluvia.gif");
     width: 312px;
     height: 321px;
     position: fixed;
